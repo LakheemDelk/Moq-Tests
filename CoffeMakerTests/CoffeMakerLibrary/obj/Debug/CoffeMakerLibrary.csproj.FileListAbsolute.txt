@@ -1,0 +1,14 @@
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\CoffeMakerLibrary.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\CoffeMakerLibrary.pdb
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\obj\Debug\CoffeMakerLibrary.csproj.AssemblyReference.cache
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\obj\Debug\CoffeMakerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\obj\Debug\CoffeMakerLibrary.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\obj\Debug\CoffeMakerLibrary.pdb
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\Castle.Core.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\Moq.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\Castle.Core.xml
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\Moq.xml
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Profe\Desktop\SOFTWARETESTING\CoffeMakerLibrary\CoffeMakerLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
